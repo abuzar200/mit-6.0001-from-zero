@@ -17,6 +17,7 @@ I watch again and try again.
 |-----|------|-------|
 | 01 | day_01.py | Bisection Search|
 | 02 | day_02.py | Binary Search on Strings|
+| 03 | day_03.py | Using functions to find even or odd |
 
 ## Why This Exists
 
