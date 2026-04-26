@@ -18,6 +18,8 @@ I watch again and try again.
 | 01 | day_01.py | Bisection Search|
 | 02 | day_02.py | Binary Search on Strings|
 | 03 | day_03.py | Using functions to find even or odd |
+| 04 | day_04.py | using tubles to find quotient and remainder |
+| 05 | day_05.py | exam answers L1-L5, fixed scope, dict, range, for loop |
 
 ## Why This Exists
 
