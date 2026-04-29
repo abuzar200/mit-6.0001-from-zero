@@ -20,6 +20,7 @@ I watch again and try again.
 | 03 | day_03.py | Using functions to find even or odd |
 | 04 | day_04.py | using tubles to find quotient and remainder |
 | 05 | day_05.py | exam answers L1-L5, fixed scope, dict, range, for loop |
+| 06 | day_06.py | recursion — factorial, fibonacci, palindrome from MIT L6 |
 
 ## Why This Exists
 
