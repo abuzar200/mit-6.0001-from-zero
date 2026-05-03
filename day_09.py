@@ -12,6 +12,6 @@ def add(nums, t):
 
 t = 9
 nums = [2, 7, 11, 15]
-addition = add(nums, t)
-print(addition)
+print(add(nums,t))
+
 # not in the format of leet code, cuz i dint study class yet
