@@ -22,6 +22,7 @@ I watch again and try again.
 | 05 | day_05.py | exam answers L1-L5, fixed scope, dict, range, for loop |
 | 06 | day_06.py | recursion - factorial, fibonacci, palindrome from MIT L6 |
 | 07 | day_07.py | lyrics to frequncy convertor using dictonaries |
+| 08 | day_08.py | Fibonacci with memorization (recursive vs memorized) [MIT]
 
 ## Why This Exists
 
