@@ -23,6 +23,9 @@ I watch again and try again.
 | 06 | day_06.py | recursion - factorial, fibonacci, palindrome from MIT L6 |
 | 07 | day_07.py | lyrics to frequncy convertor using dictonaries |
 | 08 | day_08.py | Fibonacci with memorization (recursive vs memorized) [MIT]
+| 09 | day_09.py | Leet code problem - two numbers that add up to the target |
+| 10 | day_10.py | Exhaustive enumeration to find square root |
+| 11 | day_11.py | Demonstration of Function,Scope and Global keywords |
 
 ## Why This Exists
 
