@@ -16,9 +16,9 @@ def final_price(base, discount):
 total = 1000
 
 
-def broken_add(amount):
-    total = total + amount
-    return total
+# def broken_add(amount):
+#     total = total + amount
+#     return total
 
 
 def correct_add(amount):
