@@ -26,6 +26,8 @@ I watch again and try again.
 | 09 | day_09.py | Leet code problem - two numbers that add up to the target |
 | 10 | day_10.py | Exhaustive enumeration to find square root |
 | 11 | day_11.py | Demonstration of Function,Scope and Global keywords |
+| 12 | project_01_eeg_classifier | Classifies brain wave frequencies into standard neuroscience bands |
+| 13 | day_12.py | Demonstration of try,except,else and finally from mit 6.0001 |
 
 ## Why This Exists
 
