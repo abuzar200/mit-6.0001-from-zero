@@ -8,7 +8,7 @@ No copying, no AI generation. If I can't write it from memory,
 I watch again and try again.
 
 **Started:** April 20, 2026  
-**Last updated:** April 23, 2026
+**Last updated:** may 21, 2026
 **Goal:** Complete all 10 lectures with daily commits
 
 ## Progress
