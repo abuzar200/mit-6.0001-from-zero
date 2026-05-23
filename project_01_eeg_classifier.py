@@ -1,5 +1,5 @@
 # EEG Frequency Band Classifier
-# # Classifies brain wave frequencies into standard neuroscience bands
+# Classifies brain wave frequencies into standard neuroscience bands
 
 BANDS = {
     "delta": (0.5, 4),
